@@ -17,6 +17,15 @@ args = parser.parse_args()
 YEAR_SECONDS = 60 * 60 * 24 * 365
 
 class CapGainsCalculator(object):
+    """Capital gains calculator for Schwab Equity Awards.
+
+    This consumes a JSON file containing SALE transactions from the Equity
+    Award Center, and calculates the short and long term capital gains. How to:
+
+    $] python3 main.py --filename /path/to/transactions_file.json
+
+    For transaction details, check the generated INFO logs.
+    """
 
     def __init__(self, filename):
         with open(filename, 'r') as f:
