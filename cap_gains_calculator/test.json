@@ -1,0 +1,171 @@
+{
+  "FromDate": "01/01/2024",
+  "ToDate": "12/12/2024",
+  "Transactions": [
+    {
+      "Date": "11/18/2024",
+      "Action": "Sale",
+      "Symbol": "XXX",
+      "Quantity": "13.821",
+      "Description": "Share Sale",
+      "FeesAndCommissions": "$0.06",
+      "DisbursementElection": "Journal",
+      "Amount": "$2,435.62",
+      "TransactionDetails": [
+        {
+          "Details": {
+            "Type": "RS",
+            "Shares": "13",
+            "SalePrice": "$176.2304",
+            "SubscriptionDate": "",
+            "SubscriptionFairMarketValue": "",
+            "PurchaseDate": "",
+            "PurchasePrice": "",
+            "PurchaseFairMarketValue": "",
+            "DispositionType": null,
+            "VestDate": "06/25/2024",
+            "VestFairMarketValue": "$180.79",
+            "GrossProceeds": "$2,291.00"
+          }
+        },
+        {
+          "Details": {
+            "Type": "RS",
+            "Shares": "0.821",
+            "SalePrice": "$176.2304",
+            "SubscriptionDate": "",
+            "SubscriptionFairMarketValue": "",
+            "PurchaseDate": "",
+            "PurchasePrice": "",
+            "PurchaseFairMarketValue": "",
+            "DispositionType": null,
+            "VestDate": "06/25/2024",
+            "VestFairMarketValue": "$180.79",
+            "GrossProceeds": "$144.69"
+          }
+        }
+      ]
+    },
+    {
+      "Date": "11/06/2024",
+      "Action": "Sale",
+      "Symbol": "XXX",
+      "Quantity": "23.063",
+      "Description": "Share Sale",
+      "FeesAndCommissions": "$0.11",
+      "DisbursementElection": "Journal",
+      "Amount": "$4,104.99",
+      "TransactionDetails": [
+        {
+          "Details": {
+            "Type": "RS",
+            "Shares": "23",
+            "SalePrice": "$177.995",
+            "SubscriptionDate": "",
+            "SubscriptionFairMarketValue": "",
+            "PurchaseDate": "",
+            "PurchasePrice": "",
+            "PurchaseFairMarketValue": "",
+            "DispositionType": null,
+            "VestDate": "10/25/2024",
+            "VestFairMarketValue": "$164.53",
+            "GrossProceeds": "$4,093.89"
+          }
+        },
+        {
+          "Details": {
+            "Type": "RS",
+            "Shares": "0.063",
+            "SalePrice": "$177.995",
+            "SubscriptionDate": "",
+            "SubscriptionFairMarketValue": "",
+            "PurchaseDate": "",
+            "PurchasePrice": "",
+            "PurchaseFairMarketValue": "",
+            "DispositionType": null,
+            "VestDate": "10/25/2024",
+            "VestFairMarketValue": "$164.53",
+            "GrossProceeds": "$11.21"
+          }
+        }
+      ]
+    },
+    {
+      "Date": "11/01/2024",
+      "Action": "Sale",
+      "Symbol": "XXX",
+      "Quantity": "57.716",
+      "Description": "Share Sale",
+      "FeesAndCommissions": "$0.29",
+      "DisbursementElection": "Journal",
+      "Amount": "$10,027.87",
+      "TransactionDetails": [
+        {
+          "Details": {
+            "Type": "RS",
+            "Shares": "0",
+            "SalePrice": "$173.7501",
+            "SubscriptionDate": "",
+            "SubscriptionFairMarketValue": "",
+            "PurchaseDate": "",
+            "PurchasePrice": "",
+            "PurchaseFairMarketValue": "",
+            "DispositionType": null,
+            "VestDate": "09/25/2023",
+            "VestFairMarketValue": "$131.25",
+            "GrossProceeds": ""
+          }
+        },
+        {
+          "Details": {
+            "Type": "RS",
+            "Shares": "0.716",
+            "SalePrice": "$173.7501",
+            "SubscriptionDate": "",
+            "SubscriptionFairMarketValue": "",
+            "PurchaseDate": "",
+            "PurchasePrice": "",
+            "PurchaseFairMarketValue": "",
+            "DispositionType": null,
+            "VestDate": "10/25/2024",
+            "VestFairMarketValue": "$164.53",
+            "GrossProceeds": "$124.41"
+          }
+        },
+        {
+          "Details": {
+            "Type": "RS",
+            "Shares": "46.184",
+            "SalePrice": "$173.7501",
+            "SubscriptionDate": "",
+            "SubscriptionFairMarketValue": "",
+            "PurchaseDate": "",
+            "PurchasePrice": "",
+            "PurchaseFairMarketValue": "",
+            "DispositionType": null,
+            "VestDate": "09/25/2023",
+            "VestFairMarketValue": "$131.25",
+            "GrossProceeds": "$8,024.47"
+          }
+        },
+        {
+          "Details": {
+            "Type": "RS",
+            "Shares": "10.816",
+            "SalePrice": "$173.7501",
+            "SubscriptionDate": "",
+            "SubscriptionFairMarketValue": "",
+            "PurchaseDate": "",
+            "PurchasePrice": "",
+            "PurchaseFairMarketValue": "",
+            "DispositionType": null,
+            "VestDate": "10/25/2024",
+            "VestFairMarketValue": "$164.53",
+            "GrossProceeds": "$1,879.28"
+          }
+        }
+      ]
+    }
+  ]
+}
+
